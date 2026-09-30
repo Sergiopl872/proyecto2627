@@ -18,4 +18,3 @@ For full documentation visit [properdocs.org](https://properdocs.org).
 
         
 
-#### Esto es una prueba
