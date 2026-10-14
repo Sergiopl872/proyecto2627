@@ -1,6 +1,8 @@
 site_name: Proyecto Interdisciplinar 2026/27
 nav:
   - PRACTICA 01 - CONFIGURACIÓN E INSTALACIÓN DEL ENTORNO: practica01.md
+  - Mi sitio web: 
+  #https://github.com/Sergiopl872/proyecto2627.git
 
 theme:
   name: readthedocs

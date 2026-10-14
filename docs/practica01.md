@@ -1,6 +1,7 @@
 # PRACTICA 01 
-### Autor: Sergiopl872
-### Asignatura: Proyecto Intermodular
+ Autor: Sergiopl872 
+ 
+ Asignatura: Proyecto Intermodular
 
 ## 1. INSTALACIÓN Y CONFIGURACIÓN DE GIT.
 
